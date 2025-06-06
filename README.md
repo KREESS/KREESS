@@ -77,11 +77,12 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:aditya.sholahuddin@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/adityapsh"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/628123456789"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:adityasholahuddin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aditya-putra-sholahuddin-717a8921a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/6285156474673"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"></a>
   <a href="https://github.com/KREESS"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
 </p>
+
 
 ---
 
