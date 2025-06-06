@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" width="500" />
-    <img src="https://gist.githubusercontent.com/77QingLiu/dbc61bc8997efe5448b62b919ddb88dc/raw/e30c7695f50b006a93e889ddeccf29a5b5ec7095/hello.gif" width="500" />
+    <img src="https://gist.githubusercontent.com/77QingLiu/dbc61bc8997efe5448b62b919ddb88dc/raw/e30c7695f50b006a93e889ddeccf29a5b5ec7095/hello.gif" width="1000" />
 </p>
 
+---
 
 <h1 align="center">Hi there, I'm Aditya Putra Sholahuddin 👋</h1>
 <h3 align="center">Full-Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
@@ -10,6 +10,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Full-stack+Web+Developer;Open-source+Contributor;Love+to+Code+and+Learn!" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="1000" />
